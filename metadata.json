@@ -1,0 +1,6 @@
+{
+  "name": "Meridian AI — Predictive Analytics & Business Forecasting",
+  "description": "Interactive predictive analytics and 5-year financial forecasting simulator for Meridian Tech Distribution using historical USD/NGN exchange rates and business performance data.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
